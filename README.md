@@ -1,0 +1,2 @@
+# Checkout
+Simple checkout page
