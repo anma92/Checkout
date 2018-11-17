@@ -1,2 +1,2 @@
 # Checkout
-Simple checkout page
+Simple checkout page (Evaluation Task)
